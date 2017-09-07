@@ -1,0 +1,131 @@
+This function generates statistics for Digit Classification
+('init_value=', 'random')
+('asdisand', array([[ -4.65666333e-01,  -1.98077774e+00,   8.50655324e-01, ...,
+          1.63617953e-01,  -8.56557605e-02,  -1.36630180e+00],
+       [ -1.42123110e+00,  -1.33640934e+00,  -8.81021432e-01, ...,
+          7.11404825e-01,   5.66056705e-01,  -5.51576579e-01],
+       [ -7.92322242e-01,   3.10796001e-02,   4.85363329e-01, ...,
+         -1.33494834e+00,   2.72345159e-01,   9.38165002e-01],
+       ..., 
+       [  1.72858343e+00,  -1.67725533e+00,   1.94974142e+00, ...,
+         -1.67126286e-01,  -3.55947926e-01,  -1.10218264e-01],
+       [ -7.43981150e-01,   1.92560896e-04,   9.30686496e-01, ...,
+         -5.90860888e-01,   7.39425459e-01,   5.94510173e-01],
+       [ -1.14006750e+00,  -5.53120373e-01,  -1.79680754e+00, ...,
+         -6.97938937e-01,  -4.97276783e-01,  -3.95816075e-01]]))
+('weight_ary:', array([[ -4.65666333e-01,  -1.98077774e+00,   8.50655324e-01, ...,
+          1.63617953e-01,  -8.56557605e-02,  -1.36630180e+00],
+       [ -1.42123110e+00,  -1.33640934e+00,  -8.81021432e-01, ...,
+          7.11404825e-01,   5.66056705e-01,  -5.51576579e-01],
+       [ -7.92322242e-01,   3.10796001e-02,   4.85363329e-01, ...,
+         -1.33494834e+00,   2.72345159e-01,   9.38165002e-01],
+       ..., 
+       [  1.72858343e+00,  -1.67725533e+00,   1.94974142e+00, ...,
+         -1.67126286e-01,  -3.55947926e-01,  -1.10218264e-01],
+       [ -7.43981150e-01,   1.92560896e-04,   9.30686496e-01, ...,
+         -5.90860888e-01,   7.39425459e-01,   5.94510173e-01],
+       [ -1.14006750e+00,  -5.53120373e-01,  -1.79680754e+00, ...,
+         -6.97938937e-01,  -4.97276783e-01,  -3.95816075e-01]]))
+('total correct for epoch #', 0, ' = ', 3886, '/', 5000)
+('total correct for epoch #', 1, ' = ', 4267, '/', 5000)
+('total correct for epoch #', 2, ' = ', 4346, '/', 5000)
+('total correct for epoch #', 3, ' = ', 4451, '/', 5000)
+('total correct for epoch #', 4, ' = ', 4508, '/', 5000)
+('total correct for epoch #', 5, ' = ', 4550, '/', 5000)
+('total correct for epoch #', 6, ' = ', 4568, '/', 5000)
+('total correct for epoch #', 7, ' = ', 4584, '/', 5000)
+('total correct for epoch #', 8, ' = ', 4639, '/', 5000)
+('total correct for epoch #', 9, ' = ', 4644, '/', 5000)
+('total correct for epoch #', 10, ' = ', 4660, '/', 5000)
+('total correct for epoch #', 11, ' = ', 4655, '/', 5000)
+('total correct for epoch #', 12, ' = ', 4682, '/', 5000)
+('total correct for epoch #', 13, ' = ', 4709, '/', 5000)
+('total correct for epoch #', 14, ' = ', 4725, '/', 5000)
+('total correct for epoch #', 15, ' = ', 4735, '/', 5000)
+('total correct for epoch #', 16, ' = ', 4738, '/', 5000)
+('total correct for epoch #', 17, ' = ', 4757, '/', 5000)
+('total correct for epoch #', 18, ' = ', 4777, '/', 5000)
+('total correct for epoch #', 19, ' = ', 4783, '/', 5000)
+('total correct for epoch #', 20, ' = ', 4783, '/', 5000)
+('total correct for epoch #', 21, ' = ', 4800, '/', 5000)
+('total correct for epoch #', 22, ' = ', 4803, '/', 5000)
+('total correct for epoch #', 23, ' = ', 4812, '/', 5000)
+('total correct for epoch #', 24, ' = ', 4823, '/', 5000)
+('total correct for epoch #', 25, ' = ', 4837, '/', 5000)
+('total correct for epoch #', 26, ' = ', 4834, '/', 5000)
+('total correct for epoch #', 27, ' = ', 4849, '/', 5000)
+('total correct for epoch #', 28, ' = ', 4847, '/', 5000)
+('total correct for epoch #', 29, ' = ', 4863, '/', 5000)
+('total correct for epoch #', 30, ' = ', 4854, '/', 5000)
+('total correct for epoch #', 31, ' = ', 4840, '/', 5000)
+('total correct for epoch #', 32, ' = ', 4871, '/', 5000)
+('total correct for epoch #', 33, ' = ', 4879, '/', 5000)
+('total correct for epoch #', 34, ' = ', 4873, '/', 5000)
+('total correct for epoch #', 35, ' = ', 4865, '/', 5000)
+('total correct for epoch #', 36, ' = ', 4881, '/', 5000)
+('total correct for epoch #', 37, ' = ', 4885, '/', 5000)
+('total correct for epoch #', 38, ' = ', 4881, '/', 5000)
+('total correct for epoch #', 39, ' = ', 4908, '/', 5000)
+('total correct for epoch #', 40, ' = ', 4914, '/', 5000)
+('total correct for epoch #', 41, ' = ', 4923, '/', 5000)
+('total correct for epoch #', 42, ' = ', 4906, '/', 5000)
+('total correct for epoch #', 43, ' = ', 4885, '/', 5000)
+('total correct for epoch #', 44, ' = ', 4909, '/', 5000)
+('total correct for epoch #', 45, ' = ', 4913, '/', 5000)
+('total correct for epoch #', 46, ' = ', 4909, '/', 5000)
+('total correct for epoch #', 47, ' = ', 4913, '/', 5000)
+('total correct for epoch #', 48, ' = ', 4931, '/', 5000)
+('total correct for epoch #', 49, ' = ', 4916, '/', 5000)
+('total correct for epoch #', 50, ' = ', 4917, '/', 5000)
+('total correct for epoch #', 51, ' = ', 4919, '/', 5000)
+('total correct for epoch #', 52, ' = ', 4939, '/', 5000)
+('total correct for epoch #', 53, ' = ', 4948, '/', 5000)
+('total correct for epoch #', 54, ' = ', 4942, '/', 5000)
+('total correct for epoch #', 55, ' = ', 4954, '/', 5000)
+('total correct for epoch #', 56, ' = ', 4929, '/', 5000)
+('total correct for epoch #', 57, ' = ', 4950, '/', 5000)
+('total correct for epoch #', 58, ' = ', 4938, '/', 5000)
+('total correct for epoch #', 59, ' = ', 4936, '/', 5000)
+('total correct for epoch #', 60, ' = ', 4958, '/', 5000)
+('total correct for epoch #', 61, ' = ', 4955, '/', 5000)
+('total correct for epoch #', 62, ' = ', 4958, '/', 5000)
+('total correct for epoch #', 63, ' = ', 4958, '/', 5000)
+('total correct for epoch #', 64, ' = ', 4963, '/', 5000)
+('total correct for epoch #', 65, ' = ', 4952, '/', 5000)
+('total correct for epoch #', 66, ' = ', 4967, '/', 5000)
+('total correct for epoch #', 67, ' = ', 4973, '/', 5000)
+('total correct for epoch #', 68, ' = ', 4975, '/', 5000)
+('total correct for epoch #', 69, ' = ', 4969, '/', 5000)
+('total correct for epoch #', 70, ' = ', 4970, '/', 5000)
+('total correct for epoch #', 71, ' = ', 4970, '/', 5000)
+('total correct for epoch #', 72, ' = ', 4958, '/', 5000)
+('total correct for epoch #', 73, ' = ', 4971, '/', 5000)
+('total correct for epoch #', 74, ' = ', 4958, '/', 5000)
+('total correct for epoch #', 75, ' = ', 4957, '/', 5000)
+('total correct for epoch #', 76, ' = ', 4975, '/', 5000)
+('total correct for epoch #', 77, ' = ', 4966, '/', 5000)
+('total correct for epoch #', 78, ' = ', 4978, '/', 5000)
+('total correct for epoch #', 79, ' = ', 4967, '/', 5000)
+('total correct for epoch #', 80, ' = ', 4969, '/', 5000)
+('total correct for epoch #', 81, ' = ', 4960, '/', 5000)
+('total correct for epoch #', 82, ' = ', 4970, '/', 5000)
+('total correct for epoch #', 83, ' = ', 4965, '/', 5000)
+('total correct for epoch #', 84, ' = ', 4970, '/', 5000)
+('total correct for epoch #', 85, ' = ', 4972, '/', 5000)
+('total correct for epoch #', 86, ' = ', 4981, '/', 5000)
+('total correct for epoch #', 87, ' = ', 4982, '/', 5000)
+('total correct for epoch #', 88, ' = ', 4971, '/', 5000)
+('total correct for epoch #', 89, ' = ', 4987, '/', 5000)
+('total correct for epoch #', 90, ' = ', 4982, '/', 5000)
+('total correct for epoch #', 91, ' = ', 4980, '/', 5000)
+('total correct for epoch #', 92, ' = ', 4982, '/', 5000)
+('total correct for epoch #', 93, ' = ', 4974, '/', 5000)
+('total correct for epoch #', 94, ' = ', 4975, '/', 5000)
+('total correct for epoch #', 95, ' = ', 4977, '/', 5000)
+('total correct for epoch #', 96, ' = ', 4989, '/', 5000)
+('total correct for epoch #', 97, ' = ', 4983, '/', 5000)
+('total correct for epoch #', 98, ' = ', 4990, '/', 5000)
+('total correct for epoch #', 99, ' = ', 4985, '/', 5000)
+DONE TRAINING!
+('overall accuracy for testing:', 817, '/', 1000)
+DONE TESTING!
