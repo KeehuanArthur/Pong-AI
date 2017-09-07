@@ -11,7 +11,7 @@ is running on. After this, a window will pop up with the AI bouncing the ball.
 
 When the training process is done, it will save a file called qlearn.pkl. This file contains the dictionary
 of values used by the Q-learning algorithm during the game play. To used pre-trained data, use the
-command python game_play.py <name of pkl file>
+command python game_play.py "name_of_pkl_file"
 
 To display the graphics, I used graphics.py.
         http://mcsp.wartburg.edu/zelle/python/graphics.py
